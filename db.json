@@ -1,4 +1,4 @@
-[
+{"posts": [ 
 	{
 		"name": "Buckminster Bates",
 		"text": "lobortis augue scelerisque mollis. Phasellus libero mauris, aliquam eu, accumsan"
@@ -79,4 +79,4 @@
 		"name": "Paul Patel",
 		"text": "in faucibus orci luctus et ultrices posuere cubilia Curae Phasellus"
 	}
-]
+]}
